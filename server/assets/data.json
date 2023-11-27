@@ -1,0 +1,12 @@
+[
+	{
+		"name": "3DModels",
+		"Models": [
+			{
+				"name": "door01",
+				"fileName": "door01.glb",
+				"image": null
+			}
+		]
+	}
+]
