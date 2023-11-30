@@ -33,7 +33,7 @@ Server.prototype.start = function(calback) {
         calback();
     })
 }
-Server.prototype.setControls = function(controls = [{method: "GET" || "POST" || "DELETE" || "PUT" || "UPDATE", path: "", action:()=>{}}]) {
+Server.prototype.setControls = function(controls = [{method: "GET" || "POST" || "DELETE" || "PUT" || "UPDATE", path: "", action:()=>{}, file: null}]) {
     this.controls = controls;
     this.controls.forEach(([method, path, action, file])=> {
         switch (method) {
