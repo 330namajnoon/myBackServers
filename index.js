@@ -10,6 +10,6 @@ server.start(() => {
 	
 })
 
-server.app.get("/word/:id", (req,res) => {
+server.app.get("/", (req,res) => {
     console.log("server is up on port 4000!");
 })
