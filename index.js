@@ -7,9 +7,5 @@ const server = new Server(4000, "./");
 server.addControllers(controllers);
 
 server.start(() => {
-	
-})
-
-server.app.get("/", (req,res) => {
     console.log("server is up on port 4000!");
 })
