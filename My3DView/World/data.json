@@ -9,7 +9,7 @@
                 "path": "/My3DView/assets/3DModels/door01/",
                 "fileName": "door01.glb",
                 "devScripts": [],
-                "scripts": [],
+                "scripts": ["OpenTheDoor"],
                 "position": {
                     "x": 0,
                     "y": 0,

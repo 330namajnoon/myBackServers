@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.f0da524f.css","mappings":"AACA,OAEE,YAAa,CADb,WAEF","sources":["Components/css/App.css"],"sourcesContent":["\ncanvas {\n  width: 100vw;\n  height: 100vh;\n}"],"names":[],"sourceRoot":""}

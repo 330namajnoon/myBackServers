@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f0da524f.css",
+    "main.js": "/static/js/main.a5d6af42.js",
+    "static/media/HavokPhysics.wasm": "/static/media/HavokPhysics.5e7e7553d018c4a35bd3.wasm",
+    "index.html": "/index.html",
+    "main.f0da524f.css.map": "/static/css/main.f0da524f.css.map",
+    "main.a5d6af42.js.map": "/static/js/main.a5d6af42.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0da524f.css",
+    "static/js/main.a5d6af42.js"
+  ]
+}
