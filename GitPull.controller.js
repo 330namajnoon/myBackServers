@@ -5,7 +5,7 @@ const gitPullController = new Controller({method:"GET", name:"git pull", path:"/
     try {
         exec("git pull", (error1, stdout1, stderr1) => {
             if (error1 || stderr1)
-                return res.send(`${error1} : ${stderr1}`);
+                return res.send(`${error1} : ${stderr1}!!!`);
             return res.send(`${stdout1}`);
         })
     } catch (error) {
