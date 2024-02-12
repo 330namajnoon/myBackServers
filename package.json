@@ -11,6 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "child_process": "^1.0.2",
     "sm-express-server": "^1.0.3"
   },
   "devDependencies": {
