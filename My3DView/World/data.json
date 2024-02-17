@@ -9,7 +9,7 @@
                 "path": "/My3DView/assets/3DModels/door01/",
                 "fileName": "door01.glb",
                 "devScripts": [],
-                "scripts": [],
+                "scripts": ["OpenTheDoor"],
                 "position": {
                     "x": 0,
                     "y": 0,
@@ -24,6 +24,36 @@
                     "x": 1,
                     "y": 1,
                     "z": 1
+                }
+            }
+           
+        ]
+    },
+    {
+        "sceneID": "scene002",
+        "assets": [
+            {
+                "id": "asset001",
+                "name": "fuk",
+                "type": "GLBModel",
+                "path": "/3DModels/fuk/",
+                "fileName": "fuk.glb",
+                "devScripts": [],
+                "scripts": ["CameraPosition"],
+                "position": {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                "rotation": {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                "scale": {
+                    "x": 0.3,
+                    "y": 0.3,
+                    "z": 0.3
                 }
             }
            
