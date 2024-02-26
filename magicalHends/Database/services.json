@@ -1,0 +1,198 @@
+[
+    {
+        "id": "MH-001",
+        "name": "Masaje Ayurvédico",
+        "title": "Masaje hindú ayurvédico con aceite caliente",
+        "imageURL": "/images/image001.jpeg",
+        "description": "Este masaje relajante utiliza nuestro aceite lujoso y caliente, con aromas para la relajación.  Los movimientos precisos y localizados promueven la descarga de tensión y un equilibrio entre la mente y el cuerpo. El masaje se realiza en todo el cuerpo, con aceite caliente que penetra en la piel, eliminando las impurezas y toxinas mencionadas que se acumulan en la piel. El masaje hindu esta conocido por ser un masaje Descontracturantr y relaja los músculos, al aumentar la circulación sanguínea y además reduce el ritmo cardiaco y disminuye la presión de la sangre. Es un masaje completo y distinto.",
+        "price": 0,
+        "time": 60,
+        "category": ["1", "2"]
+    },
+    {
+        "id": "DEF-246",
+        "name": "Tratamiento facial rejuvenecedor",
+        "title": "Tratamiento facial anti-edad",
+        "imageURL": "/images/tratamientos-para-rejuvenecimiento-facial-que-no-conocias.jpg",
+        "description": "Revitaliza tu piel con nuestro tratamiento facial diseñado para reducir los signos de envejecimiento.",
+        "price": 70,
+        "time": 30,
+        "category": [
+            "1",
+            "3"
+        ]
+    },
+    {
+        "id": "GHI-357",
+        "name": "Masaje de tejido profundo",
+        "title": "Masaje de tejido profundo terapéutico",
+        "imageURL": "/images/envolturas-corporales.jpg",
+        "description": "Alivia la tensión muscular profunda y mejora la movilidad con nuestro masaje de tejido profundo.",
+        "price": 60,
+        "time": 60,
+        "category": [
+            "1",
+            "2"
+        ]
+    },
+    {
+        "id": "JKL-468",
+        "name": "Manicura y pedicura",
+        "title": "Manicura y pedicura de lujo",
+        "imageURL": "/images/spa-hotel-in-tulum_2-1707x1280.jpg",
+        "description": "Embellece tus manos y pies con nuestro servicio de manicura y pedicura de lujo.",
+        "price": 40,
+        "time": 45,
+        "category": [
+            "1",
+            "4"
+        ]
+    },
+    {
+        "id": "MNO-579",
+        "name": "Envoltura corporal",
+        "title": "Envoltura corporal de algas",
+        "imageURL": "/images/MASAJE-RELAJANTE-1.jpg",
+        "description": "Desintoxica y revitaliza tu piel con nuestra envoltura corporal de algas marinas.",
+        "price": 80,
+        "time": 45,
+        "category": [
+            "1",
+            "5"
+        ]
+    },
+    {
+        "id": "PQR-680",
+        "name": "Exfoliación corporal",
+        "title": "Exfoliación corporal de azúcar",
+        "imageURL": "/images/Tailandés1.jpg",
+        "description": "Elimina las células muertas de tu piel y deja una sensación de suavidad con nuestra exfoliación corporal de azúcar.",
+        "price": 55,
+        "time": 30,
+        "category": [
+            "1",
+            "5"
+        ]
+    },
+    {
+        "id": "STU-791",
+        "name": "Masaje tailandés",
+        "title": "Masaje tailandés tradicional",
+        "imageURL": "/images/spa-hotel-in-tulum_2-1707x1280.jpg",
+        "description": "Experimenta una combinación única de estiramientos y presiones para liberar la tensión corporal.",
+        "price": 65,
+        "time": 25,
+        "category": [
+            "1",
+            "2",
+            "3"
+        ]
+    },
+    {
+        "id": "VWX-802",
+        "name": "Tratamiento capilar",
+        "title": "Tratamiento capilar reparador",
+        "imageURL": "/images/MASAJE-RELAJANTE-1.jpg",
+        "description": "Restaura la salud y el brillo de tu cabello con nuestro tratamiento capilar reparador.",
+        "price": 75,
+        "time": 45,
+        "category": [
+            "1",
+            "6"
+        ]
+    },
+    {
+        "id": "YZA-913",
+        "name": "Baño de vapor",
+        "title": "Baño de vapor aromático",
+        "imageURL": "/images/MASAJE-RELAJANTE-1.jpg",
+        "description": "Relájate y elimina toxinas con nuestro baño de vapor aromático.",
+        "price": 30,
+        "time": 45,
+        "category": [
+            "1",
+            "7"
+        ]
+    },
+    {
+        "id": "BCD-024",
+        "name": "Masaje de piedras calientes",
+        "title": "Masaje de piedras calientes relajante",
+        "imageURL": "/images/MASAJE-RELAJANTE-1.jpg",
+        "description": "Experimenta el calor reconfortante de las piedras calientes que alivian la tensión muscular.",
+        "price": 70,
+        "time": 45,
+        "category": [
+            "1",
+            "3",
+            "2"
+        ]
+    },
+    {
+        "id": "EFG-135",
+        "name": "Tratamiento de spa completo",
+        "title": "Experiencia de spa completa",
+        "imageURL": "/images/MASAJE-RELAJANTE-1.jpg",
+        "description": "Disfruta de un día completo de relajación con una variedad de tratamientos de spa.",
+        "price": 150,
+        "time": 45,
+        "category": [
+            "1",
+            "6",
+            "7"
+        ]
+    },
+    {
+        "id": "HIJ-246",
+        "name": "Maquillaje profesional",
+        "title": "Maquillaje para eventos especiales",
+        "imageURL": "/images/MASAJE-RELAJANTE-1.jpg",
+        "description": "Déjate mimar y resalta tu belleza natural con nuestro servicio de maquillaje profesional.",
+        "price": 50,
+        "time": 45,
+        "category": [
+            "1",
+            "4"
+        ]
+    },
+    {
+        "id": "KLM-357",
+        "name": "Depilación con cera",
+        "title": "Depilación con cera de alta calidad",
+        "imageURL": "/images/MASAJE-RELAJANTE-1.jpg",
+        "description": "Consigue una piel suave y sin vello con nuestra depilación con cera de alta calidad.",
+        "price": 40,
+        "time": 45,
+        "category": [
+            "1",
+            "8"
+        ]
+    },
+    {
+        "id": "NOP-468",
+        "name": "Masaje de cabeza",
+        "title": "Masaje de cabeza y cuero cabelludo",
+        "imageURL": "/images/MASAJE-RELAJANTE-1.jpg",
+        "description": "Libera la tensión y mejora la circulación sanguínea con nuestro masaje de cabeza y cuero cabelludo.",
+        "price": 45,
+        "time": 45,
+        "category": [
+            "1",
+            "3",
+            "2"
+        ]
+    },
+    {
+        "id": "QRS-579",
+        "name": "Yoga y meditación",
+        "title": "Clases de yoga y meditación",
+        "imageURL": "/images/MASAJE-RELAJANTE-1.jpg",
+        "description": "Encuentra equilibrio y armonía con nuestras clases de yoga y meditación.",
+        "price": 25,
+        "time": 45,
+        "category": [
+            "1",
+            "9"
+        ]
+    }
+]

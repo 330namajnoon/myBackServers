@@ -39,7 +39,7 @@
                 "path": "/3DModels/fuk/",
                 "fileName": "fuk.glb",
                 "devScripts": [],
-                "scripts": ["CameraPosition"],
+                "scripts": ["Camera"],
                 "position": {
                     "x": 0,
                     "y": 0,
@@ -55,6 +55,39 @@
                     "y": 0.3,
                     "z": 0.3
                 }
+            }
+           
+        ]
+    },
+    {
+        "sceneID": "clothes",
+        "assets": [
+            {
+                "id": "c1",
+                "name": "green_and_white_hoodie",
+                "type": "GLBModel",
+                "path": "/3DModels/clothes/",
+                "fileName": "green_and_white_hoodie.glb",
+                "devScripts": [],
+                "scripts": []
+            },
+            {
+                "id": "c2",
+                "name": "hoodie_with_hood_up",
+                "type": "GLBModel",
+                "path": "/3DModels/clothes/",
+                "fileName": "hoodie_with_hood_up.glb",
+                "devScripts": [],
+                "scripts": []
+            },
+            {
+                "id": "c3",
+                "name": "white_shirt_black_leather_skirt_outfit",
+                "type": "GLBModel",
+                "path": "/3DModels/clothes/",
+                "fileName": "white_shirt_black_leather_skirt_outfit.glb",
+                "devScripts": [],
+                "scripts": []
             }
            
         ]
