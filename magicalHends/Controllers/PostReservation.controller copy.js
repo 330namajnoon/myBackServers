@@ -39,7 +39,7 @@ const postReservationController = new Controller({ method: "POST", name: "reserv
             */
             const reservationes = JSON.parse(data.toString());
             const reservation = { client_id: user.id, date, startTime, endTime, serviceId };
-            reservationes.push(reservation);
+            reservationes.unshift(reservation);
             fs.writeFile("./magicalHends/Database/reservationes.json", JSON.stringify(reservationes), (err) => {
                 if (err)
                     res.status(5000).send("Error");
