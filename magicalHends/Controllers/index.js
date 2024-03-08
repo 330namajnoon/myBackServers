@@ -1,5 +1,6 @@
 const getAdminHoursByDateController = require("./GetAdminHoursByDate.controller");
 const getAdminReservationesByDateController = require("./GetAdminReservationesByDate.controller");
+const getAvailableHoursByDateController = require("./GetAvailableHoursByDate.controller");
 const getCategoriesController = require("./GetCategories.controller");
 const getImagesController = require("./GetImages.controller");
 const getReservationesByDateController = require("./GetReservationesByDate.controller");
@@ -18,6 +19,7 @@ const magicalHendsControllers = [
     getAdminReservationesByDateController,
     getAdminHoursByDateController,
     postAdminHoursByDateController,
+    getAvailableHoursByDateController,
 ];
 
 module.exports = magicalHendsControllers

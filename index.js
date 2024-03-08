@@ -7,7 +7,7 @@ const hostName = "calimocho.duckdns.org";
 const bodyParser = require("body-parser");
 const fs = require("fs");
 
-const server = new Server(4003, "/", [], {
+const server = new Server(4000, "/", [], {
     key: fs.readFileSync("ssl/private.key"),
     cert: fs.readFileSync("ssl/certificate.crt"),
     ca: fs.readFileSync("ssl/ca_bundle.crt"),
