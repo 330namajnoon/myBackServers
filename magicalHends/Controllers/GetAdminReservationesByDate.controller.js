@@ -26,7 +26,7 @@ const getAdminReservationesByDateController = new Controller({method:"GET", name
                     let user = users.find(user => user.id == res.client_id);
                     let service = services.find(service => service.id == res.serviceId);
                     if (user && service) {
-                        return {...res, ...user, serviceName: service.name, serviceTitle: service.title, id: undefined};
+                        return {...res, ...user, serviceName: service.name, serviceTitle: service.title,price: service.price, id: undefined};
                     }
                     else
                         return null
